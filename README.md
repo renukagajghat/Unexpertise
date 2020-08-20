@@ -1,11 +1,10 @@
 # Question 1:Check if the given point lies inside or outside a polygon
 
 # Case 1:
-python3 inside_polygon_point.py 
-\n 
-1 0 8 3 8 8 1 5
-3 5
-True
+* python3 inside_polygon_point.py 
+* 1 0 8 3 8 8 1 5
+* 3 5
+* True
 
 # Case 2:
 python3 inside_polygon_point.py 
